@@ -1,0 +1,53 @@
+h2{
+    border-color: black;
+    font-size: 40px;
+    background-color: rgb(27, 54, 134);
+    padding: 1px;
+  }
+  body{
+    background-color: rgb(230, 237, 251);
+    border-color: rgb(7, 7, 8);
+    border-style: solid;
+    padding: 0;
+    margin: 0;
+    clear: both;
+  }
+  img{
+      border-radius: 50%;
+  }
+  h1{
+      font-size: 40px;
+    }
+    #one{
+      text-align: center;
+    }
+  header{
+      background-color: rgb(60, 218, 213);
+      text-align: center;
+      padding: 10px;
+    }
+  aside {
+      font-family: 'Franklin Gothic Medium';
+      border-style: solid;
+      border-color: rgb(5, 10, 97);
+      background-color: rgb(43, 131, 137);
+      width: 200px;
+      margin-left: 0;
+  
+  
+    }
+  article{
+      margin: 60px;
+    }
+    footer{
+      margin: 60px;
+      margin-top: -30px;
+    }
+  h3{
+    background-color: gray;
+    margin-right: 1235px;
+    font-family: Verdana;
+  
+  
+  }
+  
